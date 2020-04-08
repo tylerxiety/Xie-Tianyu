@@ -2,14 +2,19 @@
 
 发现GitHub Page真是个适合做个人主页的良心产品，打算慢慢把散落在Medium, Kaggle和Jupyter Notobook文件夹的东西都汇总在这里。
 
+##项目
 [墨尔本短租市场分析](https://tylerxty.github.io/Rental-Market-Analysis/)
 
 [机器学习/深度学习笔记](https://github.com/tylerxty/the-Hitchhiker-s-Guide-to-Data-Science)
 
 [用Spark搭建航班延迟预测模型](https://github.com/tylerxty/Flight-delay-prediction-with-Spark)
-[Medium 英文博客](https://medium.com/@tylerxty)(需要科学上网)  
 
 [kaggle比赛个人主页](https://www.kaggle.com/tylerx)(需要科学上网)
+
+##英文博客
+[Medium](https://medium.com/@tylerxty)(需要科学上网)  
+
+
 
 
 ## 获奖项目：
