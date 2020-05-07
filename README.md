@@ -7,7 +7,7 @@
 
 [墨尔本短租市场分析](https://tylerxiety.github.io/Rental-Market-Analysis/)
 
-[<img src='https://github.com/tylerxiety/page/blob/master/ausdash.png' width='500' alt='power bi'/>] (https://tylerxiety.github.io/Rental-Market-Analysis/)
+[<img src='https://github.com/tylerxiety/page/blob/master/ausdash.png' width='500' alt='power bi'/>](https://tylerxiety.github.io/Rental-Market-Analysis/)
 
 [![Foo](https://github.com/tylerxiety/page/blob/master/ausdash.png)](https://tylerxiety.github.io/Rental-Market-Analysis/)
 
