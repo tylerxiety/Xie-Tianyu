@@ -12,7 +12,7 @@
 [![Foo](https://github.com/tylerxiety/page/blob/master/ausdash.png)](https://tylerxiety.github.io/Rental-Market-Analysis/)
 
 
-<a href="http://google.com.au/" rel="some text">![Foo](http://www.google.com.au/images/nav_logo7.png)</a>
+<a href="https://github.com/tylerxiety/page/blob/master/ausdash.png" rel="some text">![Foo](https://tylerxiety.github.io/Rental-Market-Analysis/)</a>
 
 [机器学习/深度学习笔记](https://github.com/tylerxiety/the-Hitchhiker-s-Guide-to-Data-Science)
 
