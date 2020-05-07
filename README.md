@@ -6,7 +6,7 @@
 ## 个人项目
 [墨尔本短租市场分析](https://tylerxiety.github.io/Rental-Market-Analysis/)
 
-<img src='https://github.com/tylerxiety/page/blob/master/ausdash.png' width='500' alt='power bi'/>(https://tylerxiety.github.io/Rental-Market-Analysis/)
+<img src='https://github.com/tylerxiety/page/blob/master/ausdash.png' width='500' alt='power bi'/> (https://tylerxiety.github.io/Rental-Market-Analysis/)
 
 [机器学习/深度学习笔记](https://github.com/tylerxiety/the-Hitchhiker-s-Guide-to-Data-Science)
 
