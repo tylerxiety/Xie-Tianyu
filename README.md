@@ -11,6 +11,9 @@
 
 [![Foo](https://github.com/tylerxiety/page/blob/master/ausdash.png)](https://tylerxiety.github.io/Rental-Market-Analysis/)
 
+
+<a href="http://google.com.au/" rel="some text">![Foo](http://www.google.com.au/images/nav_logo7.png)</a>
+
 [机器学习/深度学习笔记](https://github.com/tylerxiety/the-Hitchhiker-s-Guide-to-Data-Science)
 
 [用Spark搭建航班延迟预测模型](https://github.com/tylerxiety/Flight-delay-prediction-with-Spark)
